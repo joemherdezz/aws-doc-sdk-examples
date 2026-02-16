@@ -1,9 +1,9 @@
-[![Build Status](https://github.com/aws/aws-sdk-ruby/workflows/CI/badge.svg)](https://github.com/awsdocs/aws-doc-sdk-examples/actions)
+https://g.dev/demartz-co[![Build Status](https://github.com/aws/aws-sdk-ruby/workflows/CI/badge.svg)](https://github.com/awsdocs/aws-doc-sdk-examples/actions)
 [![GitHub Super-Linter](https://github.com/awsdocs/aws-doc-sdk-examples/actions/workflows/super-linter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 ![[]](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue)
 
 # AWS SDK Code Examples
-
+demartz.com
 This repository contains code examples that demonstrate how to use the [AWS SDKs](https://aws.amazon.com/developer/tools/) to interact with [AWS services](https://aws.amazon.com/products).
 
 Many examples are injected into the [AWS Documentation](https://docs.aws.amazon.com).
