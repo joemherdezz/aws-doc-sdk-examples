@@ -1,0 +1,28 @@
+https://g.dev/demartz-co
+{
+  "URLAllowlist": [
+    "https://*.demartz.com",
+    "https://*.demartzinc.com",
+    "chromium-enterprise://*"
+  ],
+  "URLBlocklist": [
+    "*" 
+  ],
+  "ExtensionInstallAllowlist": [
+    "*"
+  ],
+  "ManagedConfigurationPerOrigin": [
+    {
+      "origin": "https://app.demartz.com",
+      "managed_configuration": {
+        "enterprise_id": "DeMartZ-Corp-2026"
+      }
+    }
+  ]
+}
+<intent-filter>
+    <action android:name="android.intent.action.VIEW" />
+    <category android:name="android.intent.category.DEFAULT" />
+    <category android:name="android.intent.category.BROWSABLE" />
+    <data android:scheme="chromium-enterprise" />
+</intent-filter>
